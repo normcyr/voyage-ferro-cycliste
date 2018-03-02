@@ -43,8 +43,3 @@ Pour chaque humain, nous aurons besoin de:
 Carte topographique annotée de la région visitée: [https://caltopo.com/m/2LN2](https://caltopo.com/m/2LN2)
 
 ## Notes de fin de document
-
-\*\*ATTENTION\*\*: VOS PADS SERONT AUTOMATIQUEMENT SUPPRIMÉS AU BOUT DE 183 JOURS (6 MOIS) SANS ÉDITION !
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NTcxOTA1NV19
--->
