@@ -43,3 +43,6 @@ Pour chaque humain, nous aurons besoin de:
 Carte topographique annotée de la région visitée: [https://caltopo.com/m/2LN2](https://caltopo.com/m/2LN2)
 
 ## Notes de fin de document
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTExNzgzMzg0ODhdfQ==
+-->
