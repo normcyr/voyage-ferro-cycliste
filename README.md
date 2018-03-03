@@ -20,15 +20,15 @@ On cherche à former un groupe de 4 à 5 humains maximum. Humains ayant déjà d
 
 Pour l'ensemble du groupe, ou par sous-groupe d'humains, nous aurons besoin de:
 
-*Mettre notre sous item que nous avons/allons amener*
+*Mettre notre initiale sous item que nous avons/allons amener.*
 
 * Tente
     * **N**: tente 2 places, peut-être trois humains pas trop costaux
 * Brûleur pour bouillir l'eau
     * **N**: petit brûleur multi-combustible
 * Combustible pour la cuisine
-    * **N**: contenants d'une capacité totale de 1.5 L de combustible
     * *Déterminer la quantité à apporter, et si on peut en apporter*
+    * **N**: contenants d'une capacité totale de 1.5 L de combustible
 * Vaisselle de cuisson
     * **N**, pour 2: chaudron, 2 assiettes, 2 bols, 2 tasses, 2 sporks
 * Filtre à eau (**N**)
@@ -36,8 +36,8 @@ Pour l'ensemble du groupe, ou par sous-groupe d'humains, nous aurons besoin de:
 * Hache
     * **N**: petite hache, manche en bois de ~40 cm de long
 * Trousse de premiers soins
-    * **N**: petite trousse avec trucs de base
     * *Déterminer ce qui sera nécessaire pour un petit groupe*
+    * **N**: petite trousse avec trucs de base
 
 Pour chaque humain, nous aurons besoin de:
 
