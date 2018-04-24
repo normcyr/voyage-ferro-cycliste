@@ -8,9 +8,18 @@ On cherche à former un groupe de 4 à 5 humains maximum. Humains ayant déjà d
 
 * Norm the storm (**N**)
 * Thunder Sim (**S**)
-* Loïc le Français (**L**)
 
 ## Itinéraires possibles
+
+### Sauvé - Parent
+
+Départ et retour aux mêmes gares.
+
+Dates: du vendredi 11 mai au mardi 15 mai (**4 nuits**)
+
+Pour l'allée: Train 603, embarquement à 8h50 à la gare Sauvé. Arrivée à Parent vers 16h24.
+
+Pour le retour: Train 604: embarquement à 8h50 à la gare de Parent, Arrivée à la gare Sauvé vers 16h41.
 
 ## Matériel
 
